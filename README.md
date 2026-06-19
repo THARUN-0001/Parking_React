@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ParkEase
 
 A parking-finder &amp; reservation site, converted from a travel-booking
@@ -36,3 +37,6 @@ Then open the printed local URL. Routes:
 - `/login`, `/dashboard`
 - `/about`, `/contact`
 - `/confirm` — reservation confirmation
+=======
+# Parking_React
+>>>>>>> 45f76648c7674f959763046b6b8adac74fad19d6
